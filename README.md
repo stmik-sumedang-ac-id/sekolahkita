@@ -1,6 +1,6 @@
-
 # Sekolah Kita
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+![Alt Text](style/img/demos/sekolahkita.gif)
 
 ## Technology used
 
@@ -17,8 +17,11 @@ Run local server:
 
 ```bash
 git@github.com:stmik-sumedang-ac-id/sekolahkita.git
+
 Setup Database.php
+
 Import database
+
 Done!
 ```
 
